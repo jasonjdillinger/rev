@@ -9,7 +9,7 @@ public class Hello {
 		
 		Hello h=new Hello();
 		h.iamNonStatic();
-		h.iAmStatic(); //not recommended
+		h.iAmStatic(); //not recommended blahblah
 		
 		Demo d=new Demo();
 		d.demoHello();
